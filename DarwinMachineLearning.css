@@ -1,0 +1,17 @@
+.center {
+    margin:  auto;
+    width: 50%;
+    border:3px solid green;
+    padding: 10px;
+}
+
+.centerText {
+    text-align: center;
+    border:3px solid blue;
+    padding: 10px;
+}
+
+body {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(0,212,255,0.465721322708771) 100%);
+}
